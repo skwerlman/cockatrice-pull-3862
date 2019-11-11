@@ -1,8 +1,8 @@
 ---
-name: "Feature Request"
+name: "💡 Feature Request"
 about: Request a new feature
 title: ''
-labels: ''
+labels: 'Feature Request'
 assignees: ''
 
 ---
@@ -20,3 +20,4 @@ If your request is related to another request (but not the same!) list it here
 
 <!-- If your feature requires some context, provide it here -->
 **Additional Context**
+
